@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jack Burkhardt",
+    "label": "Software & Game Dev",
+    "image": "https://hugo-theme-gruvbox.schnerring.net/richard-hendricks.webp",
+    "email": "hello@jackburkhardt.com",
+    "phone": "(312) 478-9592",
+    "summary": "I am an undergraduate student studying Computer Science at Northwestern University. My interests lie generally in interactive entertainment, sociology, and human-computer interaction. For more info about me, see my about page or some featured projects to the left!",
+    "location": {
+      "city": "Chicago, IL, USA"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jackburkhardt",
+        "url": "https://github.com/jackburkhardt"
+      },
+      {
+        "network": "linkedin",
+        "url": "https://linkedin.com/in/jack-burkhardt"
+      },
+      {
+        "network": "itchdotio",
+        "url": "https://jackburkhardt.itch.io/"
+      },
+      {
+        "network": "twitch",
+        "url": "https://twitch.tv/12point5"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
