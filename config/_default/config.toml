@@ -1,5 +1,5 @@
 baseURL = "http://jackburkhardt.com/"
-copyright = "Copyright © 2023"
+copyright = "Copyright © Jack Burkhardt 2023"
 title = "jack burkhardt"
 paginate = 5
 enableRobotsTXT = true
@@ -21,7 +21,7 @@ enableRobotsTXT = true
 [params]
   # dark or light, defaults to light. Local storage and OS preference override this param. For more details see: 
   # https://github.com/schnerring/hugo-theme-gruvbox/issues/34#issuecomment-1235870375
-  defaultTheme = "light"
+  defaultTheme = "dark"
   # gray red green yellow blue purple aqua orange, defaults to blue
   #themeColor = "blue"
   # soft medium hard, defaults to medium
@@ -116,11 +116,11 @@ enableRobotsTXT = true
     formatString = "mailto:?subject={title}&body={url}"
 
 [menu]
-  [[menu.main]]
-    identifier = "blog"
-    name = "blog"
-    url = "/blog"
-    weight = 35
+  #[[menu.main]]
+   # identifier = "blog"
+   # name = "blog"
+   # url = "/blog"
+   # weight = 35
   [[menu.main]]
     identifier = "projects"
     name = "projects"

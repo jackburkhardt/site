@@ -1,0 +1,5 @@
+.posts-grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); /* Two columns */
+    gap: 2rem; /* Adjust the gap between columns */
+  }
