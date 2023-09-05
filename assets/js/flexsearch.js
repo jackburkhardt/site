@@ -67,7 +67,7 @@ document.addEventListener("keydown", (e) => {
   });
 
   //! Source: https://discourse.gohugo.io/t/range-length-or-last-element/3803/2
-  {{ $list := (where .Site.RegularPages) }}
+  {{ $list := (.Site.RegularPages) }}
   {{ $len := (len $list) }}
 
   index.add(
