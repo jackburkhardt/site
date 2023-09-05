@@ -13,7 +13,7 @@
 
 {{ $title := .Title }}
 {{ if .IsHome }}
-  {{ $title = "jack burkhardt - portfolio" }}
+  {{ $title = "jack burkhardt" }}
   {{ with .Site.Params.Subtitle }}
     {{ $title = printf "%s — %s" $title . }}
   {{ end }}
