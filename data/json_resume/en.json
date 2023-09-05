@@ -3,10 +3,10 @@
   "basics": {
     "name": "Jack Burkhardt",
     "label": "Software & Game Dev",
-    "image": "https://media.licdn.com/dms/image/D5603AQGz4a3_c46M7Q/profile-displayphoto-shrink_200_200/0/1671499448361?e=1699488000&v=beta&t=dOccQzN80Lelo63hZ6_o-ufOKBF0rlXKcm4rJkVFRVI",
+    "image": "https://jackburkhardt.com/static/images/homepage_headshot.png",
     "email": "hello@jackburkhardt.com",
     "phone": "(312) 478-9592",
-    "summary": "I am a fourth-year student studying Computer Science at Northwestern University. I'm passionate about creating games and software that understand their users and have a positive impact on their lives. I'm also big on fostering an inclusive and trusting team that has fun doing what we love! For more info about me, see my about page or some featured projects to the left!",
+    "summary": "I am a fourth-year student studying Computer Science at Northwestern University. \n\nI'm passionate about creating games and software that empower their users and have a positive impact on their lives. I'm also big on fostering an inclusive and trusting team that has fun doing what we love! \n\nFor more info about me, see my about page or some featured projects to the left.",
     "location": {
       "city": "Chicago, IL, USA"
     },
