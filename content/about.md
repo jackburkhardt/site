@@ -3,7 +3,7 @@ title: "about me"
 draft: false
 ---
 
-Hello! I am a third-year computer science student at Northwestern. I am the Lead Programmer for KeyWave, bringing the work of other team members to life in code. I am also a Software Engineer for Overture Games, where I help make instrument practice fun for music students.
+Hello! I am a fourth-year computer science student at Northwestern. Over the last few years I've been able to develop tremendously as a programmer and leader through my work at NASA, Overture Games, and Northwestern. I'm on the hunt for a full-time job starting Summer '24 that will let me use my skills to build meaningful projects as I continue to learn and grow.
 
 I am passionate about using the power of computers to make fun, immersive, and thoughtful experiences. I have worked on several game projects, from small class projects like [*Willow’s Quest*](https://jackburkhardt.com/projects/willowsquest/) and [*Roadkill*](https://jackburkhardt.com/projects/roadkill/) to full fledged games such as [*Intervallic*](https://jackburkhardt.com/projects/intervallic/) and [*KeyWave*](https://jackburkhardt.com/projects/keywave/). I also worked on the virtual reality art installation [*VastWaste*](https://jackburkhardt.com/projects/vastwaste/), which has recently been featured at international exhibitions including SIGGRAPH2022 and ISEA2022.
 
