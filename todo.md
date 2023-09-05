@@ -1,0 +1,3 @@
+- add a light background to the cards
+- update content
+- party!
