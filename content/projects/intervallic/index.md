@@ -5,29 +5,27 @@ summary: "A video game for music students designed to reduce burnout and make pr
 tags: [projects, unity, csharp, game design, overture, featured]
 draft: false
 cover:
-    src: ./menu_stars.gif
+    src: ./intervallic_capsule.webp
     alt: Intervallic cover image
     relative: false
     hidden: false
 ---
   
-I am currently a software engineer for [Overture Games](https://www.overture.games/) where I am helping develop our first release title, *Intervallic*. It aims to make music practice for students by fun by gamifying practice and giving them goals to hit while practicing their instruments. The game supports audio input through MIDI and microphone, and will work with many instruments and vocals. Players must play the correct notes to advance through levels and can play certain intervals to activate special abilities or mechanics.
+I am currently a founding member and lead software engineer for [Overture Games](https://www.overture.games/) where I am helping develop our first release title, *Intervallic*. It aims to make music practice for students by fun by gamifying practice and giving them goals to hit while practicing their instruments. The game supports audio input through MIDI and microphone, and will work with many instruments and vocals. Players must play the correct notes to advance through levels and can play certain intervals to activate special abilities or mechanics.
 
-I've gotten to build a lot of really cool tech for this game. I'm working on a level generator/builder that can create custom levels out of MIDI files so users can play their own music as levels. I've also learned a lot more about audio processing through working on our pitch tracking system. I've been working on a native C#/.NET port of neural network pitch tracker [CREPE](https://github.com/marl/crepe). And of course I have learned a ton about software development in a business context, agile development, etc. It has been a really cool opportunity.
+I've gotten to build a lot of really cool tech for this game. I've created a level editor that allows users to provide their own music and design levels around their skills. On the systems side I made many internal tools and did a lot of work with platform integration and player metrics collection. But my work can also be seen on more user-facing features including gameplay and audio/pitch detection.  Outside of just technology, I've learned a lot about how the fundraising process works and how to work through the lows as a team.
 
-Overture is a small team of 5 people, so I often get to wear a lot of hats. Depending on the day I might act as a writer, producer, business analyst, technical designer, QA tester, or many other critical roles in game and software development. It's been a really awesome way to explore all of the different sides of the industry and helps me be a more well-rounded developer!
+Overture is still a quite small team, so I often get to wear a lot of hats. Depending on the day I might act as a writer, producer, business analyst, technical designer, QA tester, or many other critical roles in game and software development. It's been a really awesome way to explore all of the different sides of the industry and has helped me become a more well-rounded developer.
 
-Here's a bit of concept art until I have the go-ahead to post more final content:  
+Here's a bit of concept art, or you can see our latest trailer and screenshots on Steam!
   
-![concept](./concept.png)  
-  
-Concept art courtesy of the wonderful and talented [Erin Park](https://www.erinpark.org/)!  
+![concept](./concept.png)    
 
 ## Release information
 
-Check out our latest demo, available for free on [Steam](https://store.steampowered.com/app/2270460) and [itch](https://overturegames.itch.io/intervallic)!
+Our latest demo available for free on [Steam](https://store.steampowered.com/app/2270460) and [itch](https://overturegames.itch.io/intervallic)!
 
-An early release version with more content is planned for later this year. In the meantime, feel free to join our [Discord](https://discord.gg/8qn2m3uKan) for updates!
+An Early Access version with more content is planned September 29th, 2023. In the meantime, feel free to join our [Discord](https://discord.gg/8qn2m3uKan) for updates!
 
 ## Media featuring Intervallic
 
