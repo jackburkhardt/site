@@ -33,5 +33,5 @@ VastWaste has been featured at several international media arts festivals, inclu
 ## Press coverage & publications
 
 06/14/2022  | [Terrassa Digital](https://terrassadigital.cat/veure-la-deixalla-espacial-de-forma-immersiva-des-del-citm/) \ 
-06/25/2022  | [Association for Computing Machinery](https://dl.acm.org/doi/10.1145/3532837.3534952)
+06/25/2022  | [Association for Computing Machinery](https://dl.acm.org/doi/10.1145/3532837.3534952) \
 07/01/2023  | [DiVA "Digital, Interactive and Visual Arts" Vol. 54](https://art-science.org/diva/)
