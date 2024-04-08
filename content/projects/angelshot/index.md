@@ -11,7 +11,7 @@ cover:
     hidden: false
 ---
 
-{{< rawhtml >}}<iframe src="https://player.vimeo.com/video/931798114?h=f78ae666e9" width="800" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{{/< rawhtml >}}
+{{< rawhtml >}}<iframe src="https://player.vimeo.com/video/931798114?h=f78ae666e9" width="800" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{{< /rawhtml >}}
 
 ## Uncomfortable situations are all too common
 
