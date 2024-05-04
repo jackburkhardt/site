@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Jack Burkhardt",
-    "label": "Software & Game Dev",
+    "label": "Software & Game Developer",
     "image": "https://jackburkhardt.com/images/homepage_headshot.webp",
     "email": "hello@jackburkhardt.com",
     "phone": "(312) 478-9592",
-    "summary": "I am a fourth-year student studying Computer Science at Northwestern University. \n\nI'm passionate about creating games and software that empower their users and have a positive impact on their lives. I'm also big on fostering an inclusive and trusting team that has fun doing what we love! \n\nFor more info about me, see my about page or some featured projects to the left.",
+    "summary": "I am a fourth-year student studying Computer Science at Northwestern University. \n\nI have a breadth of experience in game development, systems administration, desktop app development, cloud services, and people-managing.\n\nFor more info about me, see my about page or some featured projects to the left.",
     "location": {
       "city": "Chicago, IL, USA"
     },
